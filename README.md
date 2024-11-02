@@ -1,9 +1,7 @@
-h1 align="center">Hi 👋, I'm Tanvir Taher</h1>
-<h3 align="center">Digital Craftsman</h3>
+<h1 align="center">Hi 👋, I'm Tanvir Taher</h1>
+<h3 align="left">Digital Craftsman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanb33r&label=Profile%20views&color=0e75b6&style=flat" alt="tanb33r" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanb33r" alt="tanb33r" /></a> </p>
 
 - 💼 I’m currently working at **Enosis Solutions**
 
@@ -14,7 +12,7 @@ h1 align="center">Hi 👋, I'm Tanvir Taher</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/tanb33r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanb33r" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tanb33r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanb33r" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/goodfella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanb33r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
