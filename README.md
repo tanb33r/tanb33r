@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **cool projects**
 
-- 💬 Ask me about **.NET, AngularTS, ML**
+- 💬 Ask me about **.NET, Angular, JS**
 
 ## My Tech! 
 - **Languages** - `C++` `C#` `TypeScript` `Javascript` `SQL` 
