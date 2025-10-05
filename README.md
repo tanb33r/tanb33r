@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanb33r&label=Profile%20views&color=0e75b6&style=flat" alt="tanb33r" /> </p>
 
-- 💼 I’m currently working at **Selise**
-
-- 💼 Previously worked at **Enosis Solutions**, **All Generation Tech**
-
 - 👯 I’m looking to collaborate on **cool projects**
 
 - 💬 Ask me about **.NET, Angular, JS, Microservice, Message Broker, System Design, Architecture**
